@@ -1,0 +1,1 @@
+# Activity_to_improve_logical_thinking_in_Portugol
